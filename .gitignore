@@ -1,0 +1,5 @@
+zonomi-api-result.json
+*.pyc
+ansible-digital_ocean.cache
+*.retry
+*.sw*
