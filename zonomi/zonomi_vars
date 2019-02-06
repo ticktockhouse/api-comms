@@ -1,0 +1,2 @@
+zonomi_domain: example.com
+zonomi_domain_regex: '\\w+-do\\.example\\.com'
